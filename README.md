@@ -1,1 +1,1 @@
-# PraticaDeAspNet
+Projeto para praticar ASP.NET segundo o curso do Codecademy.
